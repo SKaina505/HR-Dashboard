@@ -1,5 +1,5 @@
 # HR Dashboard Project (Power BI)
-![](Coffee-bar.jpg)
+![](HRheadpicture.jpg)
 
 This HR dashboard project was developed using **Power BI** to provide actionable insights into key workforce metrics. It focuses on **headcount**, **employee retention**, and **turnover trends** from 2013 to 2019. Designed for strategic HR decision-making, it visualizes critical organizational data using modern data transformation techniques, interactive filtering, and DAX measures.
 
@@ -32,7 +32,7 @@ Existing data was stored in disparate CSV files and required transformation into
 ---
 
 ## Data Modelling
-
+![](DataModel.JPG)
 
 ### Data Preparation
 
@@ -60,7 +60,12 @@ Existing data was stored in disparate CSV files and required transformation into
 
 ## Visualizations
 
+### Cover Page
+![](HRdashboardcoverpage.png)
+Created an interactive Cover page used to navigate to any part of the project and also showing a breif summary of the project.
+
 ### Headcount Page
+![](HRdashboardheadcount.png)
 
 - **Total Headcount (2019):** 2,796  
 - **Top Departments:** Software (543), Sales (417), HR (273)  
@@ -81,6 +86,7 @@ Existing data was stored in disparate CSV files and required transformation into
 - **Other Visuals:** Headcount by Race, City-level heat map, Clustered and stacked charts by demographics
 
 ### Retention Page
+![](HRdashboardemployeeretention.png)
 
 - **Overall Retention (2013–2019):** 83.6%  
 - **Yearly Retention Range:** 92.9% (2013) to 93.8% (2019)  
@@ -97,6 +103,7 @@ Existing data was stored in disparate CSV files and required transformation into
 - **Parameterized Slicer:** Compare demographics (gender, location, education, etc.)
 
 ### Turnover Page
+![](HRdashboardemployeeturnover.png)
 
 - **Overall Turnover (2013–2019):** 28.5%  
 - **Departing Employees:** 457  
